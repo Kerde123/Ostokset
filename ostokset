@@ -1,0 +1,25 @@
+[
+  {
+    "userId": 1,
+    "id": 1,
+    "otsikko": "Kahvi",
+    "tehty": false
+  },
+  {
+    "userId": 1,
+    "id": 2,
+    "otsikko": "Leipä",
+    "tehty": false
+  },
+  {
+    "userId": 1,
+    "id": 3,
+    "otsikko": "Kauramaito",
+    "tehty": false
+  },
+  {
+    "userId": 1,
+    "id": 4,
+    "otsikko": "Tofu",
+    "tehty": true
+  }
